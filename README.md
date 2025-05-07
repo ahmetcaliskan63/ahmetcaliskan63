@@ -1,19 +1,18 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ahmetcaliskan.vercel.app/)
 <h1 align="center">Hi 👋, I'm Ahmet ÇALIŞKAN</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
+ <img align="right"  alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
 
-<p align="right"> withd="400" <img src="https://komarev.com/ghpvc/?username=ahmetcaliskan63&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcaliskan63" /> </p>
 
 - 🌱 I’m currently learning **ASP.Net Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmetcaliskan63?tab=repositories](https://github.com/ahmetcaliskan63?tab=repositories)
+- 👨‍💻 All of my projects are available at [Ahmet ÇALIŞKAN](https://github.com/ahmetcaliskan63?tab=repositories)
 
 - 💬 Ask me about **React,PHP**
 
 - 📫 How to reach me **caliskanahmet@gmail.com**
 
-- 📄 Know about my experiences [https://ahmetcaliskan.vercel.app/](https://ahmetcaliskan.vercel.app/)
+- 📄 Know about my experiences [Ahmet ÇALIŞKAN](https://ahmetcaliskan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
