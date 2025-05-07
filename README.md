@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmetcaliskan63&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcaliskan63" /> </p>
+<p align="right"> withd="400" <img src="https://komarev.com/ghpvc/?username=ahmetcaliskan63&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcaliskan63" /> </p>
 
 - 🌱 I’m currently learning **ASP.Net Core**
 
