@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Ahmet ÇALIŞKAN](https://github.com/ahmetcaliskan63?tab=repositories)
 
-- 💬 Ask me about **React,PHP**
+- 💬 Ask me about **ASP.Net Core,React**
 
 - 📫 How to reach me **caliskanahmet@gmail.com**
 
