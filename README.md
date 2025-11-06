@@ -1,7 +1,6 @@
 <!-- 🌈 PROFILE HEADER -->
 <p align="center">
- <img align="right"  alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ahmet%20Caliskan&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=.NET%20Backend%20Developer%20%7C%20API%20%26%20AI%20Enthusiast&descAlignY=75&descSize=18"/>
 </p>
 
 
