@@ -11,14 +11,14 @@
 <h2>🔗 About Me</h2>
 
 <ul>
-<li>🌱 I’m currently improving my skills in <b>ASP.NET Core</b>, <b>Clean Architecture</b> and <b>React</b>.</li>
-<li>💼 I specialize in building <b>modern, scalable, and secure full-stack applications</b>.</li>
-<li>⚙️ I focus on creating <b>clean, maintainable</b> backend systems and <b>responsive, user-friendly</b> frontends.</li>
-<li>🤖 I’m passionate about <b>AI integration</b> and automation in web development.</li>
-<li>💬 Ask me about <b>ASP.NET Core, React, Entity Framework, and API design</b>.</li>
-<li>📧 Reach me via <a href="mailto:ahmetcaliskan.dev@gmail.com">ahmetcaliskan.dev@gmail.com</a></li>
-<li>🌐 Visit my portfolio → <a href="https://ahmetcaliskan.vercel.app" target="_blank">ahmetcaliskan.vercel.app</a></li>
-<li>📂 Explore my projects → <a href="https://github.com/ahmetcaliskan63?tab=repositories">GitHub Repositories</a></li>
+<li>🌱 Currently improving <b>ASP.NET Core</b>, <b>Clean Architecture</b> and <b>React</b>.</li>
+<li>💼 I build <b>modern, scalable, secure</b> full-stack applications.</li>
+<li>⚙️ Backend first: <b>clean, maintainable</b> APIs; Frontend: <b>responsive, UX-aware</b> UIs.</li>
+<li>🤖 Interested in <b>AI integrations</b> (OpenAI, LangChain) and useful automation.</li>
+<li>💬 Ask me about <b>ASP.NET Core, Entity Framework, RESTful APIs, React</b>.</li>
+<li>📧 Reach me → <a href="mailto:ahmetcaliskan.dev@gmail.com">ahmetcaliskan.dev@gmail.com</a></li>
+<li>🌐 Portfolio → <a href="https://ahmetcaliskan.vercel.app" target="_blank">ahmetcaliskan.vercel.app</a></li>
+<li>📂 Projects → <a href="https://github.com/ahmetcaliskan63?tab=repositories" target="_blank">GitHub Repositories</a></li>
 </ul>
 
 </td>
@@ -32,26 +32,12 @@
 
 <h2 align="center">🧩 Tech Stack</h2>
 
-<h2 align="center">🧩 Tech Stack</h2>
-
-<p align="center" style="margin: 10px 0;">
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!-- Dark-theme friendly, single row, consistent spacing -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,linux,html,css,javascript,typescript,react&theme=dark&perline=16" />
 </p>
 
+<!-- Categorized grid -->
 <table align="center">
   <tr>
     <td valign="top" width="33%">
@@ -70,7 +56,7 @@
       <ul>
         <li>SQL Server • PostgreSQL • MongoDB</li>
         <li>Stored Procedures • Indexing</li>
-        <li>Docker • Postman API Collections</li>
+        <li>Docker • Postman Collections</li>
         <li>CI/CD (GitHub Actions – lint/test/build)</li>
         <li>Logging & Config (.env • Serilog)</li>
       </ul>
@@ -94,10 +80,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🏪 **[ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)** | RESTful API for restaurant management with CRUD operations, DTO mapping, and validation. | ASP.NET Core • EF Core • SQL Server |
-| 🌱 **[Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)** | Blockchain & IPFS-based plant tracking system with smart data management. | ASP.NET Core • IPFS • Blockchain |
-| 🍽️ **[LastBite](https://github.com/ahmetcaliskan63/LastBite)** | Food waste management backend with JWT auth, migrations, and FluentValidation. | .NET 8 • PostgreSQL • AutoMapper |
-| 📚 **[Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)** | Student & book tracking system with CRUD, roles, and search filters. | ASP.NET MVC • SQL Server |
+| 🏪 **[ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)** | RESTful API for restaurant management with CRUD, DTO mapping, validation. | ASP.NET Core • EF Core • SQL Server |
+| 🌱 **[Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)** | Blockchain & IPFS-based plant tracking with smart data flow. | ASP.NET Core • IPFS • Blockchain |
+| 🍽️ **[LastBite](https://github.com/ahmetcaliskan63/LastBite)** | Food-waste platform backend with JWT auth, migrations, validations. | .NET 8 • PostgreSQL • AutoMapper |
+| 📚 **[Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)** | Student/book management with roles and search. | ASP.NET MVC • SQL Server |
 
 ---
 
