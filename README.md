@@ -1,6 +1,7 @@
 <!-- 🌈 PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=3EBFF8&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Ahmet+Caliskan;🧩+.NET+Backend+Developer;🚀+Building+Clean+and+Scalable+APIs;💡+AI+and+Innovation+Enthusiast" alt="Typing SVG" />
+ <img align="right"  alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
+
 </p>
 
 
