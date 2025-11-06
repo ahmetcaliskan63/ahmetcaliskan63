@@ -1,70 +1,30 @@
-<!-- 🌈 PROFILE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ahmet%20Caliskan&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=.NET%20Backend%20Developer%20%7C%20API%20%26%20AI%20Enthusiast&descAlignY=75&descSize=18"/>
+[![MasterHead](https://www.seedinfotech.com/wp-content/uploads/2022/08/dot_net_inner.jpg)](https://ahmetcaliskan.vercel.app/)
+<h1 align="center">Hi 👋, I'm Ahmet ÇALIŞKAN</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
+ <img align="right"  alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" />
+
+
+- 🌱 I’m currently learning **ASP.Net Core**
+
+- 👨‍💻 All of my projects are available at [Ahmet ÇALIŞKAN](https://github.com/ahmetcaliskan63?tab=repositories)
+
+- 💬 Ask me about **ASP.Net Core,React**
+
+- 📫 How to reach me **ahmetcaliskan.dev@gmail.com**
+
+- 📄 Know about my experiences [Ahmet ÇALIŞKAN](https://ahmetcaliskan.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmetcaliskann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetcaliskann" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ahmet_63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahmet_63/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetcaliskan63&show_icons=true&locale=en&layout=compact" alt="ahmetcaliskan63" /></p>
 
-<h2 align="center">💻 About Me</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcaliskan63&show_icons=true&locale=en" alt="ahmetcaliskan63" /></p>
 
-<p align="center">
-🎓 4th-year <b>Software Engineering</b> student @ <b>Kırklareli University</b> <br/>
-💼 Focused on <b>.NET Backend Development</b> with ASP.NET Core, EF Core, and SQL Server <br/>
-⚙️ Building clean, maintainable, and scalable API architectures <br/>
-🧠 Passionate about <b>AI integration, RAG, LangChain, and OpenAI API</b> for smarter backend solutions  
-</p>
-
----
-
-<h2 align="center">🧩 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,html,css,js,ts" />
-</p>
-
-<p align="center">
-  <b>Core Skills:</b> ASP.NET Core • Entity Framework Core • RESTful APIs • Clean Architecture • AutoMapper • FluentValidation • JWT Auth • SQL Server
-</p>
-
----
-
-<h2 align="center">🚀 Highlighted Projects</h2>
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🏪 **[ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)** | RESTful API for restaurant management with CRUD operations, DTO mapping, and validation. | ASP.NET Core • EF Core • SQL Server |
-| 🌱 **[Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)** | Blockchain & IPFS-based plant tracking system with smart data management. | ASP.NET Core • IPFS • Blockchain |
-| 🍽️ **[LastBite](https://github.com/ahmetcaliskan63/LastBite)** | Food waste management platform backend with JWT auth, migrations, and FluentValidation. | .NET 8 • PostgreSQL • AutoMapper |
-| 📚 **[Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)** | Student & book tracking system with CRUD, roles, and search filters. | ASP.NET MVC • SQL Server |
-
----
-
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetcaliskan63&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcaliskan63&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcaliskan63&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" width="90%"/>
-</p>
-
----
-
-<h2 align="center">🤝 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmetcaliskan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:caliskanahmmet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ahmetcaliskan63" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">✨ “Clean Code is not just style — it's a mindset.” ✨</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcaliskan63&" alt="ahmetcaliskan63" /></p>
