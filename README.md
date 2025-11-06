@@ -1,64 +1,62 @@
-<h1 align="center">👋 Hi, I'm Ahmet Çalışkan</h1>
-
+<!-- 🌈 PROFILE HEADER -->
 <p align="center">
-  🎓 <b>Software Engineering Student @ Kırklareli University</b> <br/>
-  💻 <b>.NET Backend Developer</b> focused on building scalable, maintainable, and secure systems. <br/>
-  🚀 Passionate about <b>clean architecture, API design,</b> and <b>AI-powered backend solutions.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ahmet+Çalışkan;🧩+.NET+Backend+Developer;🚀+Building+Clean+and+Scalable+APIs;💡+AI+and+Innovation+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🔭 I’m currently developing RESTful APIs using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.  
-- 🧩 Experienced in **DTO–Entity mapping (AutoMapper)** and **data validation (FluentValidation)**.  
-- 🧰 Building projects with a focus on **Clean Architecture**, **Repository Pattern**, and **Unit of Work**.  
-- 🧪 I also explore **AI integration**, **LangChain**, and **OpenAI API** for intelligent backend systems.  
-- 🧠 I believe that *clean code is the foundation of scalable innovation.*
-
----
-
-### ⚙️ Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | C#, SQL, JavaScript |
-| **Frameworks** | ASP.NET Core, .NET 8, Entity Framework Core |
-| **Databases** | SQL Server, PostgreSQL, MongoDB |
-| **Tools** | Visual Studio, Postman, Swagger, Git, Docker |
-| **Concepts** | RESTful API, Authentication (JWT), Validation, Mapping, CI/CD, Clean Architecture |
-
----
-
-### 🚀 Highlighted Projects  
-
-#### 🏪 [ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)
-> **Tech:** ASP.NET Core • EF Core • SQL Server • AutoMapper  
-> Full RESTful API for restaurant management. Includes category/product endpoints, validation, and layered architecture.  
-
-#### 🌱 [Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)
-> **Tech:** ASP.NET Core • IPFS • Blockchain API  
-> Backend API for plant tracking using decentralized storage and NFC UID mapping.  
-
-#### 🍽️ [LastBite](https://github.com/ahmetcaliskan63/LastBite)
-> **Tech:** .NET 8 • PostgreSQL • FluentValidation  
-> Backend for a food-waste management platform with authentication, EF migrations, and admin control panel.  
-
-#### 🧩 [Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)
-> **Tech:** ASP.NET MVC • SQL Server  
-> Role-based student/book management system with CRUD operations and search filtering.
-
----
-
-### 🧾 GitHub Stats  
+<h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetcaliskan63&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcaliskan63&layout=compact&theme=tokyonight" height="165"/>
+🎓 4th-year <b>Software Engineering</b> student @ <b>Kırklareli University</b> <br/>
+💼 Focused on <b>.NET Backend Development</b> with ASP.NET Core, EF Core, and SQL Server <br/>
+⚙️ Building clean, maintainable, and scalable API architectures <br/>
+🧠 Passionate about <b>AI integration, RAG, LangChain, and OpenAI API</b> for smarter backend solutions  
 </p>
 
 ---
 
-### 📫 Connect With Me  
+<h2 align="center">🧩 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,html,css,js,ts" />
+</p>
+
+<p align="center">
+  <b>Core Skills:</b> ASP.NET Core • Entity Framework Core • RESTful APIs • Clean Architecture • AutoMapper • FluentValidation • JWT Auth • SQL Server
+</p>
+
+---
+
+<h2 align="center">🚀 Highlighted Projects</h2>
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🏪 **[ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)** | RESTful API for restaurant management with CRUD operations, DTO mapping, and validation. | ASP.NET Core • EF Core • SQL Server |
+| 🌱 **[Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)** | Blockchain & IPFS-based plant tracking system with smart data management. | ASP.NET Core • IPFS • Blockchain |
+| 🍽️ **[LastBite](https://github.com/ahmetcaliskan63/LastBite)** | Food waste management platform backend with JWT auth, migrations, and FluentValidation. | .NET 8 • PostgreSQL • AutoMapper |
+| 📚 **[Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)** | Student & book tracking system with CRUD, roles, and search filters. | ASP.NET MVC • SQL Server |
+
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetcaliskan63&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcaliskan63&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcaliskan63&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" width="90%"/>
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect!</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmetcaliskan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -68,4 +66,4 @@
 
 ---
 
-<h3 align="center">✨ “Code with clarity, build with purpose.” ✨</h3>
+<h3 align="center">✨ “Clean Code is not just style — it's a mindset.” ✨</h3>
