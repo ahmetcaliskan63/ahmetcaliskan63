@@ -12,11 +12,11 @@
 
 <ul>
 <li>🌱 Currently improving <b>ASP.NET Core</b>, <b>Clean Architecture</b> and <b>React</b>.</li>
-<li>💼 I build <b>modern, scalable, secure</b> full-stack applications.</li>
+<li>💼 Building <b>modern, scalable, secure</b> full-stack applications.</li>
 <li>⚙️ Backend first: <b>clean, maintainable</b> APIs; Frontend: <b>responsive, UX-aware</b> UIs.</li>
-<li>🤖 Interested in <b>AI integrations</b> (OpenAI, LangChain) and useful automation.</li>
+<li>🤖 Exploring <b>AI integrations</b> (OpenAI, LangChain) and automation tools.</li>
 <li>💬 Ask me about <b>ASP.NET Core, Entity Framework, RESTful APIs, React</b>.</li>
-<li>📧 Reach me → <a href="mailto:ahmetcaliskan.dev@gmail.com">ahmetcaliskan.dev@gmail.com</a></li>
+<li>📧 Contact → <a href="mailto:ahmetcaliskan.dev@gmail.com">ahmetcaliskan.dev@gmail.com</a></li>
 <li>🌐 Portfolio → <a href="https://ahmetcaliskan.vercel.app" target="_blank">ahmetcaliskan.vercel.app</a></li>
 <li>📂 Projects → <a href="https://github.com/ahmetcaliskan63?tab=repositories" target="_blank">GitHub Repositories</a></li>
 </ul>
@@ -32,12 +32,10 @@
 
 <h2 align="center">🧩 Tech Stack</h2>
 
-<!-- Dark-theme friendly, single row, consistent spacing -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,linux,html,css,javascript,typescript,react&theme=dark&perline=16" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,linux,html,css,javascript,typescript,react&theme=dark&perline=15" />
 </p>
 
-<!-- Categorized grid -->
 <table align="center">
   <tr>
     <td valign="top" width="33%">
@@ -79,11 +77,12 @@
 <h2 align="center">🚀 Highlighted Projects</h2>
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🏪 **[ApiRestaurant](https://github.com/ahmetcaliskan63/ApiRestaurant)** | RESTful API for restaurant management with CRUD, DTO mapping, validation. | ASP.NET Core • EF Core • SQL Server |
-| 🌱 **[Dijital Bahçem](https://github.com/ahmetcaliskan63/DijitalBahcem)** | Blockchain & IPFS-based plant tracking with smart data flow. | ASP.NET Core • IPFS • Blockchain |
-| 🍽️ **[LastBite](https://github.com/ahmetcaliskan63/LastBite)** | Food-waste platform backend with JWT auth, migrations, validations. | .NET 8 • PostgreSQL • AutoMapper |
-| 📚 **[Library Management System](https://github.com/ahmetcaliskan63/LibraryManagement)** | Student/book management with roles and search. | ASP.NET MVC • SQL Server |
+|----------|--------------|-------------|
+| 💬 **[HobbySocialStartUp](https://github.com/ahmetcaliskan63/HobbySocialStartUp)** | A social media app for hobby sharing and discovery — built with modern UI and Firebase backend integration. | React Native • TypeScript • Firebase • Expo |
+| 🏫 **[Dershane Takip Sistemi](https://github.com/ahmetcaliskan63/Dershane_takip_sistemi)** | A comprehensive course tracking system managing students, teachers, and schedules for institutions. | .NET MVC • SQL Server • Entity Framework |
+| 🧠 **[SocialCampus](https://github.com/ahmetcaliskan63/SOCIALCAMPUS)** | A community-driven social platform for university students — collaboration, posts, and events. | JavaScript • Node.js • MongoDB |
+| 🍽️ **[KYK Yemek & Kahvaltı](https://github.com/ahmetcaliskan63/kyk_yemek_kahvalti)** | A practical app showing KYK dormitory meal and breakfast menus — daily updated API. | React Native • Expo • RESTful API |
+| 🌱 **[Dijital Bahçem TeknoFest](https://github.com/ahmetcaliskan63/DijitalBahcemTekno)** | A blockchain & IPFS-based plant tracking system developed for Teknofest, enabling smart environmental monitoring. | ASP.NET Core • Blockchain • IPFS • PostgreSQL |
 
 ---
 
