@@ -32,7 +32,7 @@
 
 <h2 align="center">🧩 Tech Stack</h2>
 
-<p align="center">
+<p  style="align="center"">
   <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,postgresql,mongodb,git,github,postman,docker,linux,html,css,javascript,typescript,react&theme=dark&perline=15" />
 </p>
 
