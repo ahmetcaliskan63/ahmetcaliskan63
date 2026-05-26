@@ -1,4 +1,4 @@
-[![MasterHead](https://www.seedinfotech.com/wp-content/uploads/2022/08/dot_net_inner.jpg)](https://ahmetcaliskan.vercel.app/)
+[![MasterHead](https://www.webspreadtech.com/images/net.jpg)](https://ahmetcaliskan.vercel.app/)
 <h1 align="center">Hi 👋, I'm Ahmet ÇALIŞKAN</h1>
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
